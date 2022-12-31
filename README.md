@@ -4,8 +4,11 @@ Zomato Landing Page developed using pure HTML and CSS
 
 <h3> Zomato Landing page view.. 👇 </h3>
 <hr />
-<img src="./images/siteview_one" alt="pageview" />
+<h4> Page View 1 </h4>
+<img src="./images/siteview_one.png" alt="pageview" />
 <hr />
-<img src="./images/siteview_two" alt="pageview" />
+<h4> Page View 2 </h4>
+<img src="./images/siteview_two.png" alt="pageview" />
 <hr />
-<img src="./images/siteview_three" alt="pageview" />
+<h4> Page View 3 </h4>
+<img src="./images/siteview_three.png" alt="pageview" />
